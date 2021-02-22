@@ -21,13 +21,10 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 6
   exclude:
     archived: false
     forks: true
-    projects:
-     - ManimCommunity/manim
-     - msys2/MINGW-packages
 
 social_media:
   # behance: your_username
